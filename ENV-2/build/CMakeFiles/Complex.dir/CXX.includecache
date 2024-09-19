@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miqo/homework/ENV-2/Complex.cpp
+Complex.h
+/home/miqo/homework/ENV-2/Complex.h
+
+/home/miqo/homework/ENV-2/Complex.h
+iostream
+-
+cmath
+-
+
