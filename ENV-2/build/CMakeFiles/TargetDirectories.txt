@@ -1,6 +1,0 @@
-/home/miqo/homework/ENV-2/build/CMakeFiles/edit_cache.dir
-/home/miqo/homework/ENV-2/build/CMakeFiles/clean-csort.dir
-/home/miqo/homework/ENV-2/build/CMakeFiles/csort.dir
-/home/miqo/homework/ENV-2/build/CMakeFiles/Sort.dir
-/home/miqo/homework/ENV-2/build/CMakeFiles/rebuild_cache.dir
-/home/miqo/homework/ENV-2/build/CMakeFiles/Complex.dir
