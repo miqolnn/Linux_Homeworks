@@ -1,0 +1,12 @@
+>
+1234.txt
+123.txt
+12.txt
+1.log
+1.txt
+a.out
+g.cpp
+ishell.cpp
+Makefile
+s.txt
+t.txt
